@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('Hello from Nodejs App after trigaring ok');
+  res.send('Hello from Nodejs App containerzed after trigaring ok');
 
 });
 
